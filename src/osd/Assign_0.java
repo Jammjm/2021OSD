@@ -21,6 +21,10 @@ public class Assign_0 {
 		public Node first;
 		public Node last;
 		
+		public NodeList(){
+			
+		}
+		
 		
 		
 	}
