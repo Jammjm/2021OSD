@@ -22,9 +22,6 @@ public class Assign_0 {
 		public Node last;
 		
 		
-		
-		
-		
 	}
 
 	public static void main(String[] args) {
